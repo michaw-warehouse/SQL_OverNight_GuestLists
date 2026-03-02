@@ -24,7 +24,7 @@ This project demonstrates:
 
 It was developed using Microsoft SQL Server (T-SQL).
 
-### Database Structure
+## Database Structure
 
 Core Tables
 
@@ -60,4 +60,4 @@ The database follows a fully normalized relational structure:
 
 > One Guest List can include multiple Visitors
 
-![Dashboard Screenshot](SQL_OverNight_GuestList_Database/)
+![Dashboard Screenshot](SQL_OverNight_GuestList_Database/https://github.com/michaw-warehouse/SQL_OverNight_GuestLists/blob/7abe21cc9a19134c3ebc0f3e1ec302838b1a6e3a/SQL_OverNight_GuestList_Database/Screenshot%202026-03-02%20141230.png)
