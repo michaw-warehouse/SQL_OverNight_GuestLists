@@ -105,3 +105,7 @@ Query currently staying visitors using:
 > Group By & Filtering
 
 > Join Operations
+
+Here is Sample Query to see how this database works...
+
+![Dashboard Screenshot](https://github.com/michaw-warehouse/SQL_OverNight_GuestLists/blob/45236d8f8eafdecca27bdd5e3eb8260c639b36ed/join.png)
